@@ -23,7 +23,7 @@ summary: "ICS 314 Final Project: Building Aloha-Trades"
 
 <p>The prompt drove us to take the template and implement certain restrictions.  We wanted a narrow scope of categories for items.  We wanted users to only be able to sign up if they have @hawaii.edu email domains.  We had to ensure that anything posted as a listing was reviewed and approved by an administrator, in order to mitigate the potential for inappropriate or unauthorized listings ever being visible to users.  </p>
 
-<img class="img-fluid" src="/img/ICS314Final/Marketplace-Page.png">
+<img class="img-fluid" src="../img/ICS314Final/Marketplace-Page.png">
 
 ## My Contributions
 
