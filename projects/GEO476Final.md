@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/uh60msq.png
+image: img/GEO476Final/uh60msq.png
 title: "ArcGIS Feasability Study: HUMEVAC Program on Oahu"
 date: 2023-04-01
 published: true
@@ -13,9 +13,9 @@ summary: "A study conducted using ArcGIS datasets and maps.  With the increasing
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/proj1.png" class="img-thumbnail" >
-  <img width="200px" src="../img/proj1-2.png" class="img-thumbnail" >
-  <img width="200px" src="../img/proj1-3.png" class="img-thumbnail" >
+  <img width="200px" src="../img/GEO476Final/proj1.png" class="img-thumbnail" >
+  <img width="200px" src="../img/GEO476Final/proj1-2.png" class="img-thumbnail" >
+  <img width="200px" src="../img/GEO476Final/proj1-3.png" class="img-thumbnail" >
 </div>
 
 The overall goal of this project was to explore the ability of a helicopter HUMEVAC program to fulfill a currently unmet need of getting patients to emergency medical within one hour during high-traffic hours.  Several datasets were required to provide adequate feasibility recommendations.
