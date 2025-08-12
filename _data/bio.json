@@ -5,7 +5,7 @@
     "picture": "https://github.com/gahernan141.png",
     "email": "hernan.dez.gerardo.a@gmail.com",
     "website": "https://gahernan141.github.io",
-    "summary": " Computer Science Graduate from the University of Hawaii. A proven leader with 16+ years of Electronics experience in the DoD sector",
+    "summary": " A proven leader with 16+ years of Electronics experience in the DoD sector.  Computer Science Graduate from the University of Hawaii. ",
     "location": { "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "gahernan141", "url": "http://github.com/gahernan141" },
@@ -17,7 +17,7 @@
     { "name": "ArcGIS and electronic charting technologies" },
     { "name": "Linux" },
     { "name": "CyberSecurity" },
-    { "name": "Positioning, Navigation and Timing Technologies" }
+    { "name": "Positioning, Navigation and Timing(PNT) technologies" }
   ],
   "skills": [
     {
