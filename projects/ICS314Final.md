@@ -14,7 +14,7 @@ summary: "ICS 314 Final Project: Building Aloha-Trades"
 ---
 
 <img class="img-fluid" src="../img/ICS314Final/atradelogo.png">
-"img/ICS314Final/Landing-Page.png"
+
 # Aloha Trades
 
 ## Purpose
