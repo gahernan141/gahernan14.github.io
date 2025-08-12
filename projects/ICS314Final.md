@@ -14,7 +14,7 @@ summary: "ICS 314 Final Project: Building Aloha-Trades"
 ---
 
 <img class="img-fluid" src="../img/ICS314Final/atradelogo.png">
-
+"img/ICS314Final/Landing-Page.png"
 # Aloha Trades
 
 ## Purpose
@@ -32,7 +32,7 @@ summary: "ICS 314 Final Project: Building Aloha-Trades"
 <p>I spent a lot of time ensuring that the backend functionality was realistic.  By that I mean that we worked with groups of listings that had to be heavily restricted and dependent on valid property types to provide the user with a functional experience.  For example, Clicking View My Listings had to ensure that the listings were only those of the user.  Clicking Marketplace produced listings that were: available for purchase, approved, and not belonging to the user browsing the marketplace.  For the admin, functionality was provided to view the approval status, and change to make a post approved.  The team I worked with did a great of handling the frontend design and user experience for signing in, signing up and the aesthetics of the landing pages.   </p>
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/ICS314Final/Landing-Page.png" class="img-thumbnail" >
+  <img width="400px" src="img/ICS314Final/Landing-Page.png" class="img-thumbnail" >
 </div>
 
 ## Lessons Learned
