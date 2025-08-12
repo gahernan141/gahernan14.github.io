@@ -13,9 +13,9 @@ summary: "A study conducted using ArcGIS datasets and maps.  With the increasing
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/GEO476Final/proj1.png" class="img-thumbnail" >
-  <img width="200px" src="../img/GEO476Final/proj1-2.png" class="img-thumbnail" >
-  <img width="200px" src="../img/GEO476Final/proj1-3.png" class="img-thumbnail" >
+  <img width="300px" src="../img/GEO476Final/proj1.png" class="img-thumbnail" >
+  <img width="300px" src="../img/GEO476Final/proj1-2.png" class="img-thumbnail" >
+  <img width="300px" src="../img/GEO476Final/proj1-3.png" class="img-thumbnail" >
 </div>
 
 The overall goal of this project was to explore the ability of a helicopter HUMEVAC program to fulfill a currently unmet need of getting patients to emergency medical within one hour during high-traffic hours.  Several datasets were required to provide adequate feasibility recommendations.
