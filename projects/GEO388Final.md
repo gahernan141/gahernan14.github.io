@@ -13,9 +13,9 @@ summary: "A study conducted using ArcGIS datasets and maps.  With over 90% of ou
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/GEO388Final/proj2.png" class="img-thumbnail" >
-  <img width="200px" src="../img/GEO388Final/proj2-2.png" class="img-thumbnail" >
-  <img width="200px" src="../img/GEO388Final/proj2-3.png" class="img-thumbnail" >
+  <img width="300px" src="../img/GEO388Final/proj2.png" class="img-thumbnail" >
+  <img width="300px" src="../img/GEO388Final/proj2-2.png" class="img-thumbnail" >
+  <img width="300px" src="../img/GEO388Final/proj2-3.png" class="img-thumbnail" >
 </div>
 
 
