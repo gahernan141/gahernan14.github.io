@@ -37,7 +37,7 @@ summary: "ICS 314 Final Project: Building Aloha-Trades"
 
 ## Lessons Learned
 
-<p>My team learned early on that we had to plan and be on the same page when working on our webpage.  We all went home on the first day of the assignment and started coding.  When we met back up again, we realized everyone in the team had a different vision for how the listings would work, how purchasing would take place, how signing in would be handled.  Every idea had branched off into 4 separate directions.  Most of our initial code had to be scrapped because our ideas were different and incompatible.  By implementing an Agile Project Management workflow, we managed to build a flowchart of the experience we watned to create.  Next, we divided the tasks up into the upcoming milestones and ensured we let everyone know that changes were on-going or completed.  </p>
+<p>My team learned early on that we had to plan and be on the same page when working on our webpage.  We all went home on the first day of the assignment and started coding.  When we met back up again, we realized everyone in the team had a different vision for how the listings would work, how purchasing would take place, how signing in would be handled.  Every idea had branched off into 4 separate directions.  Most of our initial code had to be scrapped because our ideas were different and incompatible.  By implementing an Agile Project Management workflow, we managed to build a flowchart of the experience we wanted to create.  Next, we divided the tasks up into the upcoming milestones and ensured we let everyone know that changes were on-going or completed.  </p>
 
 
 <p><a href="https://aloha-trades.com/">Aloha Trades Webpage</a> </p>
